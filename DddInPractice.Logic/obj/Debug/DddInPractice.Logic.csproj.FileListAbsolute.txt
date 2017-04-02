@@ -1,0 +1,12 @@
+C:\Users\hkaraoglu\Desktop\DddInPractice\DddInPractice.Logic\bin\Debug\DddInPractice.Logic.dll
+C:\Users\hkaraoglu\Desktop\DddInPractice\DddInPractice.Logic\bin\Debug\DddInPractice.Logic.pdb
+C:\Users\hkaraoglu\Desktop\DddInPractice\DddInPractice.Logic\bin\Debug\FluentNHibernate.dll
+C:\Users\hkaraoglu\Desktop\DddInPractice\DddInPractice.Logic\bin\Debug\Iesi.Collections.dll
+C:\Users\hkaraoglu\Desktop\DddInPractice\DddInPractice.Logic\bin\Debug\NHibernate.dll
+C:\Users\hkaraoglu\Desktop\DddInPractice\DddInPractice.Logic\bin\Debug\FluentNHibernate.pdb
+C:\Users\hkaraoglu\Desktop\DddInPractice\DddInPractice.Logic\bin\Debug\FluentNHibernate.xml
+C:\Users\hkaraoglu\Desktop\DddInPractice\DddInPractice.Logic\bin\Debug\Iesi.Collections.xml
+C:\Users\hkaraoglu\Desktop\DddInPractice\DddInPractice.Logic\bin\Debug\NHibernate.xml
+C:\Users\hkaraoglu\Desktop\DddInPractice\DddInPractice.Logic\obj\Debug\DddInPractice.Logic.csprojResolveAssemblyReference.cache
+C:\Users\hkaraoglu\Desktop\DddInPractice\DddInPractice.Logic\obj\Debug\DddInPractice.Logic.dll
+C:\Users\hkaraoglu\Desktop\DddInPractice\DddInPractice.Logic\obj\Debug\DddInPractice.Logic.pdb
